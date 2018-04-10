@@ -6,3 +6,5 @@ Reading material
 2. https://medium.com/@rupak.thakur/23-deep-learning-papers-to-get-you-started-part-1-308f80d7bba2
 
 3. https://arxiv.org/
+
+4. http://amid.fish/reproducing-deep-rl
