@@ -8,3 +8,5 @@ Reading material
 3. https://arxiv.org/
 
 4. http://amid.fish/reproducing-deep-rl
+
+5. https://arxiv.org/pdf/1709.06560.pdf
