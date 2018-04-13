@@ -10,3 +10,5 @@ Reading material
 4. http://amid.fish/reproducing-deep-rl
 
 5. https://arxiv.org/pdf/1709.06560.pdf
+
+6. https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
