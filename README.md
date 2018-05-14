@@ -12,3 +12,5 @@ Reading material
 5. https://arxiv.org/pdf/1709.06560.pdf
 
 6. https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+
+7. http://www.deeplearningbook.org/
