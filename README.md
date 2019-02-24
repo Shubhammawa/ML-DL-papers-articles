@@ -18,3 +18,9 @@ Reading material
 8. https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4
 
 9. https://arxiv.org/pdf/1706.02515.pdf
+
+10. https://arxiv.org/pdf/1707.02387.pdf
+
+11. https://arxiv.org/pdf/1809.04739.pdf
+
+12. http://nlp.cs.rpi.edu/paper/incorporating-background-knowledge-final.pdf
